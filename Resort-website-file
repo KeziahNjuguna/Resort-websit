@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home page!</title>
+  <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<h1><strong>moringa resort</strong>!</h1>
+<ul>
+  <li>accomodations</li>
+  <li>activities</li>
+  <li>travel arrangements</li>
+  <li>pictures</li>
+  <li>contact information</li>
+</body>
+</html>
